@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ganeshdanuri
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React Js
+- 👀 I’m passionate in Web Development
+- 🌱 I’m currently working in a compnay on React
 - 📫 How to reach me ...
 
 <!---
