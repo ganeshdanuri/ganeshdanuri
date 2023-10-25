@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ganeshdanuri
+- 👋 Hi, I’m GANESH DANURI
 - 👀 I’m passionate in Web Development
-- 🌱 I’m currently working in a compnay on React
+- 🌱 I’m currently working as a Frontend Engineer
 - 📫 reach me at ganeshdanuri.nitt@gmail.com
 
 <!---
