@@ -29,8 +29,8 @@ I'm currently diving deeper into [Advanced Javascript]. Always excited to expand
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ganeshdanuri/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/ganeshdanuri)
+- LinkedIn: [Ganesh Danuri](https://www.linkedin.com/in/ganeshdanuri/)
+- Twitter: [@ganeshdanuri](https://twitter.com/ganeshdanuri)
 
 Feel free to explore my repositories and reach out for collaboration or just to say hi! 🚀
 
