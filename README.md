@@ -23,10 +23,6 @@ I'm a passionate Frontend Developer with 2.4 years of experience, specializing i
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshdanuri&layout=compact)
 
-## 🌱 Currently Learning
-
-I'm currently diving deeper into [Advanced Javascript]. Always excited to expand my knowledge!
-
 ## 📫 Let's Connect
 
 - LinkedIn: [Ganesh Danuri](https://www.linkedin.com/in/ganeshdanuri/)
