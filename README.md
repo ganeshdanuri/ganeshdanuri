@@ -1,7 +1,7 @@
 # 👋 Hello World! I'm _Ganesh Danuri_
 
 
-I'm a passionate Frontend Developer with 2.4 years of experience, specializing in building interactive and user-friendly web applications. My tech stack includes:
+I'm a passionate Frontend Developer with 2.6 years of experience, specializing in building interactive and user-friendly web applications. My tech stack includes:
 
 - React.js
 - JavaScript
