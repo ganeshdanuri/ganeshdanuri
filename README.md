@@ -1,10 +1,10 @@
 # Ganesh Danuri
 
-**Frontend Developer | 2.6 Years of Experience**
+**Frontend Developer | 2.9 Years of Experience**
 
 **Summary**
 
-I am a passionate and results-oriented Frontend Developer with 2.6 years of experience building interactive and user-friendly web applications. I leverage modern technologies like React.js to craft exceptional user interfaces and bring ideas to life. I am a highly motivated individual with a strong work ethic and a proven track record of delivering high-quality code. I am constantly learning and staying ahead of the curve to ensure I can provide the best possible solutions for your frontend needs.
+I am a passionate and results-oriented Frontend Developer with 2.9 years of experience building interactive and user-friendly web applications. I leverage modern technologies like React.js to craft exceptional user interfaces and bring ideas to life. I am a highly motivated individual with a strong work ethic and a proven track record of delivering high-quality code. I am constantly learning and staying ahead of the curve to ensure I can provide the best possible solutions for your frontend needs.
 
 **Skills & Expertise**
 
