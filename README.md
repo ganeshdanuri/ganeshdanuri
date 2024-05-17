@@ -1,6 +1,6 @@
 # Ganesh Danuri
 
-**Frontend Developer | 2.9 Years of Experience**
+**Frontend Developer | 3 Years of Experience**
 
 **Summary**
 
