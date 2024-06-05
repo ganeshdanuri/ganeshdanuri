@@ -1,4 +1,4 @@
-# Ganesh Danuri | Frontend Developer | 3 Years of Experience**
+# Ganesh Danuri | Frontend Developer | 3 Years of Experience
 
 **Summary**
 
