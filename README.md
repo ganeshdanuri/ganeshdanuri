@@ -8,6 +8,7 @@ Crafting exceptional user interfaces and interactive web applications with 3+ ye
 **Skills & Expertise**
 
 * **Front-End Development :** React.js, JavaScript (ES6+), HTML5, CSS3, Angular.js, Tailwind, Typescript
+* **Back-End Development :** Node.js, Express.js, SQLite, MongoDB, Python
 * **Version Control:** Git, SVN
 * **Testing:** React Testing Library and Jest
 * **Tools:** Webpack, browser developer tools
