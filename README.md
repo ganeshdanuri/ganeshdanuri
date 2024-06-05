@@ -10,10 +10,9 @@ Crafting exceptional user interfaces and interactive web applications with 3+ ye
 **Skills & Expertise**
 
 * **Front-End Development Languages & Frameworks:** React.js, JavaScript (ES6+), HTML5, CSS3 (preprocessors like Sass)
-* **Version Control:** Git
-* **Testing:** Unit testing with Jest
-* **Tools:** Build tools like Webpack, browser developer tools
-* **Communication:** Excellent written and verbal communication skills
+* **Version Control:** Git, SVN
+* **Testing:** React Testing Library and Jest
+* **Tools:** Webpack, browser developer tools
 * **Teamwork:** Proven ability to work effectively in a team environment
 
 **Technologies & Frameworks**
