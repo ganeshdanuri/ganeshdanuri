@@ -21,12 +21,3 @@ Crafting exceptional user interfaces and interactive web applications with 3+ ye
 ![Badge HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Badge CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-** Explore My Projects**
-
-Feel free to check out my repositories on GitHub for a glimpse into my work: [Your GitHub profile URL](https://github.com/ganeshdanuri)
-
-** Looking to contribute?**
-
-I welcome contributions to my open-source projects! Feel free to fork, raise pull requests, or open issues for discussion.
-
-I'm constantly improving my skills and knowledge base. If there are any technologies or frameworks not listed here that you'd like to discuss, please reach out! 
