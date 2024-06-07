@@ -21,13 +21,6 @@ Crafting exceptional user interfaces and interactive web applications with 3+ ye
 ![Badge HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Badge CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-** Connect with Me**
-
-Let's discuss your frontend needs! I'm always open to collaboration and learning new things.
-
-* **LinkedIn:** [Ganesh Danuri](https://www.linkedin.com/in/ganeshdanuri/)
-* **Twitter:** [@ganeshdanuri](https://twitter.com/ganeshdanuri)
-
 ** Explore My Projects**
 
 Feel free to check out my repositories on GitHub for a glimpse into my work: [Your GitHub profile URL](https://github.com/ganeshdanuri)
