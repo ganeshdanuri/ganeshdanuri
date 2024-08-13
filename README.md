@@ -8,8 +8,6 @@
 
 🎨 Passionate about design and functionality, I deliver projects that are both user-friendly and aesthetically pleasing.
 
-🤝 A collaborative team player, I enjoy sharing knowledge and working towards shared goals.
-
 # Technical Skills
 
 - **Front-End Development:**  
