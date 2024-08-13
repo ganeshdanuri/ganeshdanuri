@@ -2,19 +2,15 @@
 
 **About Me**
 
-👋 Hi, I'm Ganesh, a passionate Frontend Developer with 3+ years of experience. I specialize in **React.js** and thrive on creating beautiful, intuitive web applications.
+👋 Hi, I'm Ganesh, a Frontend Developer with 3+ years of experience specializing in **React.js**. I excel at creating intuitive, visually appealing web applications and thrive on solving complex problems with innovative solutions.
 
-🚀 **Tech Enthusiast:** Skilled in React.js, TypeScript, Tailwind CSS, and more. My full-stack experience with Node.js and Python enhances my problem-solving abilities.
+🚀 Skilled in modern technologies like TypeScript and Tailwind CSS, and experienced in both frontend and backend development.
 
-🎨 **Design Focused:** I blend technical prowess with a sharp eye for design to deliver both functional and aesthetically pleasing projects.
+🎨 Passionate about design and functionality, I deliver projects that are both user-friendly and aesthetically pleasing.
 
-🛠 **Creative Problem Solver:** I tackle challenges with innovative solutions, optimizing performance and adding new features with a proactive approach.
+🤝 A collaborative team player, I enjoy sharing knowledge and working towards shared goals.
 
-🤝 **Team Collaborator:** I excel in team settings, sharing knowledge and working together to achieve common goals.
-
----
-
-**Skills & Expertise**
+# Technical Skills
 
 - **Front-End Development:**  
   - ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=white)
