@@ -1,6 +1,6 @@
 # 👋 Hello World, I'm Ganesh Danuri!
 
-## 🚀 SDE @ Divami Design Labs | AI Engineer | Specializing in React, TypeScript, Python | LLMOps, Model Fine-tuning, Agents, Deployment & Monitoring
+## 🚀 SDE @ Divami Design Labs | Full Stack AI Engineer | Specializing in React, TypeScript, Python | LLMOps, Model Fine-tuning, Agents, Deployment & Monitoring
 
 💡 I'm a Frontend + AI Engineer with **4+ years** of experience building performant, scalable web apps and production-grade AI systems. I bridge the gap between elegant user experiences and intelligent backend systems, creating solutions that truly make a difference.
 
